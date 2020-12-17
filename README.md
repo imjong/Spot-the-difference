@@ -65,24 +65,21 @@
 ## 5. 스크린샷
 
 ### 5.1.로그인 화면
- ![로그인](./screenshot/hc1.PNG)
+ ![로그인](./screenshot/login.PNG)
  -------------
 
 ### 5.2. 메인 화면
- ![메인](./screenshot/hc3.PNG)
+ ![메인](./screenshot/main.PNG)
  -------------
  
  ### 5.3. 랭킹 화면
- ![랭킹](./screenshot/hc4.PNG)
+ ![랭킹](./screenshot/rank.PNG)
  -------------
   
  ### 5.4. 게임 화면
- ![게임](./screenshot/hc5.PNG)
+ ![게임](./screenshot/play.PNG)
  -------------
   
  ### 5.5. 결과 화면
- ![결과](./screenshot/hc8.PNG)
+ ![결과](./screenshot/result.PNG)
  -------------
-
-------------------------------------------------------------------------------
-# 감사합니다!
